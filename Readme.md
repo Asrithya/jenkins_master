@@ -1,3 +1,4 @@
+**Final Output or Interface**
 <img width="1470" alt="Screenshot 2025-05-15 at 9 56 28 AM" src="https://github.com/user-attachments/assets/aa43ed1e-7e79-4d3c-880d-1370523ea8ac" 
   />**Features**
 ->Responsive layout with a modern, clean UI
@@ -12,6 +13,10 @@
 ->Channel name and description in the <header>
 ->Replace YouTube <iframe> URLs with your own video, playlist, and shorts links
 ->Update the footer with your name or brand
+
+**Workflow flow of the project**
+<img width="1470" alt="Screenshot 2025-05-15 at 9 29 32 AM" src="https://github.com/user-attachments/assets/aa7108fb-08f4-4c47-b598-ad3af46bb353" />
+
 
 **Complete Details of the project**
 
