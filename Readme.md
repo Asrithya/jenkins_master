@@ -1,4 +1,5 @@
-**Features**
+<img width="1470" alt="Screenshot 2025-05-15 at 9 56 28 AM" src="https://github.com/user-attachments/assets/aa43ed1e-7e79-4d3c-880d-1370523ea8ac" 
+  />**Features**
 ->Responsive layout with a modern, clean UI
 ->Embedded popular YouTube videos, playlists, and shorts
 ->Custom header and footer
@@ -25,3 +26,6 @@
 * This webpage can serve multiple purposes — from acting as a media kit, portfolio, or even a basic landing page for promotional purposes. Whether you're sharing this with sponsors, fans, or embedding it into a larger site, it's an easy way to show off your best YouTube content in a structured format.
 
 * Lastly, this project is completely open-source and customizable. You are encouraged to modify and extend it as needed. Add more styling, interactivity with JavaScript, or host it on GitHub Pages, Netlify, or your own domain. The simple codebase ensures it's beginner-friendly and easy to maintain.
+
+
+
